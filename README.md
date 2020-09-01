@@ -5,7 +5,7 @@ Implement the following Android app and compile into an APK ready for distributi
 
 inches = millimeters/25.4
 
-
+![](images/Screenshot_2020-09-01-11-31-51.png)
 
 
 
